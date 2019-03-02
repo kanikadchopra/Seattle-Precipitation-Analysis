@@ -13,3 +13,6 @@ Utilized data on Seattle's precipitation from 2014 to generate analysis question
 4. Determined which day had the highest precipitation and which days had the least precipitation
 5. Utilized matplotlib to create a histogram and added in axes and title labels to show the monthly precipitation average
 6. Created a Series that stored and displayed all the summary statistics from this analysis
+
+### End Results:
+TBD
